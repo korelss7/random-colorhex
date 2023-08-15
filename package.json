@@ -2,11 +2,15 @@
   "name": "korels7-random-colorhex",
   "version": "1.0.0",
   "description": "Generate a random hexcode color",
+  "keywords": [
+    "random",
+    "hexcode",
+    "color"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "Stefano Pajita <pajita200305@gmail.com>",
   "license": "MIT",
   "repository": {
